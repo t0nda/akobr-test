@@ -1,0 +1,12 @@
+{
+  "compilerOptions" : {
+    "target" : "es6",
+    "module" : "commonjs",
+    "sourceMap" : true,
+    "outDir" : "/Users/akobr/Develop/akobr/akobr-test/lambda-read-file/read-file/aws-toolkit-ts-output",
+    "rootDir" : ".",
+    "sourceRoot" : "/Users/akobr/Develop/akobr/akobr-test/lambda-read-file/read-file",
+    "typeRoots" : [ "/Users/akobr/Develop/akobr/akobr-test/lambda-read-file/read-file/node_modules/@types" ],
+    "types" : [ "node" ]
+  }
+}

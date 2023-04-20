@@ -1,0 +1,12 @@
+{
+  "compilerOptions" : {
+    "target" : "es6",
+    "module" : "commonjs",
+    "sourceMap" : true,
+    "outDir" : "/Users/akobr/Develop/akobr/akobr-test/lambda-store-to-db/store-to-db/aws-toolkit-ts-output",
+    "rootDir" : ".",
+    "sourceRoot" : "/Users/akobr/Develop/akobr/akobr-test/lambda-store-to-db/store-to-db",
+    "typeRoots" : [ "/Users/akobr/Develop/akobr/akobr-test/lambda-store-to-db/store-to-db/node_modules/@types" ],
+    "types" : [ "node" ]
+  }
+}
